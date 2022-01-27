@@ -78,6 +78,8 @@ writeYourGeners();
 console.log(personalMovieDB);
 
 
+
+
 // (personalMovieDB.count < 10) ? console.log('You havent seen a many of movies') :
 // (personalMovieDB.count >= 10 && personalMovieDB.count <= 30) ? console.log('You are classic viewer') :
 // (personalMovieDB.count >= 30000) ?  console.log('You are lier????') : 
